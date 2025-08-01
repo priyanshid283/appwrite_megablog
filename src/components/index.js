@@ -3,7 +3,7 @@ import Select from "./Select";
 import Header from "./Header/Header";
 import Footer from "./footer/footer";
 import Container from "./container/Container";
-import Logo from "./Logo";
+import Logo from "./logo";
 import LogoutBtn from "./Header/LogoutBtn";
 import RTE from "./RTE";
 import Signup from "../pages/Signup";
